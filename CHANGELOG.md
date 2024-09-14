@@ -1,3 +1,10 @@
+# 1.0.0 (2024-09-14)
+
+
+### Features
+
+* **add:** remote data ([b37c160](https://github.com/karrtopelka/nxt-management/commit/b37c1609695066024740deaa0b6b565a5e84c0a1))
+
 ## [3.56.2](https://github.com/ixartz/Next-js-Boilerplate/compare/v3.56.1...v3.56.2) (2024-09-12)
 
 
