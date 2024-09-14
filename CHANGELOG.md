@@ -1,3 +1,11 @@
+# [1.3.0](https://github.com/karrtopelka/nxt-management/compare/v1.2.0...v1.3.0) (2024-09-14)
+
+
+### Features
+
+* **add:** protect all pages, shadcn ([78ed27a](https://github.com/karrtopelka/nxt-management/commit/78ed27ac9c082a4bc6db1696c610be968bf4634d))
+* **add:** tests ([a65c1dc](https://github.com/karrtopelka/nxt-management/commit/a65c1dc20c838f8d5da3124d473930e8c7fc9136))
+
 # [1.2.0](https://github.com/karrtopelka/nxt-management/compare/v1.1.0...v1.2.0) (2024-09-14)
 
 
