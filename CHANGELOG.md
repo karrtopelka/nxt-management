@@ -1,3 +1,10 @@
+# [1.1.0](https://github.com/karrtopelka/nxt-management/compare/v1.0.0...v1.1.0) (2024-09-14)
+
+
+### Features
+
+* **add:** sponsorship ([75455e3](https://github.com/karrtopelka/nxt-management/commit/75455e3dbca2aa64ffceadb7c77f11524315309e))
+
 # 1.0.0 (2024-09-14)
 
 
