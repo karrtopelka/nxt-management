@@ -1,3 +1,10 @@
+# [1.2.0](https://github.com/karrtopelka/nxt-management/compare/v1.1.0...v1.2.0) (2024-09-14)
+
+
+### Features
+
+* **add:** ukraine language default ([fb299df](https://github.com/karrtopelka/nxt-management/commit/fb299df5759b29ffc85e092189d23b4c44bd9079))
+
 # [1.1.0](https://github.com/karrtopelka/nxt-management/compare/v1.0.0...v1.1.0) (2024-09-14)
 
 
