@@ -1,4 +1,10 @@
 {
+  "Theme": {
+    "toggle": "Змінити тему",
+    "light": "Світла",
+    "dark": "Темна",
+    "system": "Системна"
+  },
   "RootLayout": {
     "home_link": "Головна",
     "about_link": "Про нас",
@@ -8,8 +14,14 @@
     "sign_up_link": "Реєстрація"
   },
   "BaseTemplate": {
-    "description": "Стартовий код для вашого Nextjs Boilerplate з Tailwind CSS",
-    "made_with": "Зроблено з"
+    "menu": {
+      "toggle": "Меню",
+      "home": "Головна",
+      "players": "Гравці",
+      "trainings": "Тренування",
+      "settings": "Налаштування",
+      "account": "Акаунт"
+    }
   },
   "Index": {
     "meta_title": "Презентація Next.js Boilerplate",

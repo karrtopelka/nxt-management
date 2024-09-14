@@ -25,6 +25,7 @@ export default antfu({
   ignores: [
     'migrations/**/*',
     'next-env.d.ts',
+    'src/components/ui/*',
   ],
 }, ...tailwind.configs['flat/recommended'], jsxA11y.flatConfigs.recommended, {
   plugins: {
@@ -64,5 +65,6 @@ export default antfu({
     'node/prefer-global/process': 'off', // Allow using `process.env`
     'test/padding-around-all': 'error', // Add padding in test files
     'test/prefer-lowercase-title': 'off', // Allow using uppercase titles in test titles
+    'tailwindcss/no-custom-classname': 'off', // Allow using custom class names
   },
 });

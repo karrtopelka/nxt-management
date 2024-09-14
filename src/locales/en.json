@@ -1,4 +1,10 @@
 {
+  "Theme": {
+    "toggle": "Toggle theme",
+    "light": "Light",
+    "dark": "Dark",
+    "system": "System"
+  },
   "RootLayout": {
     "home_link": "Home",
     "about_link": "About",
@@ -8,8 +14,14 @@
     "sign_up_link": "Sign up"
   },
   "BaseTemplate": {
-    "description": "Starter code for your Nextjs Boilerplate with Tailwind CSS",
-    "made_with": "Made with"
+    "menu": {
+      "toggle": "Menu",
+      "home": "Home",
+      "players": "Players",
+      "trainings": "Trainings",
+      "settings": "Settings",
+      "account": "Account"
+    }
   },
   "Index": {
     "meta_title": "Next.js Boilerplate Presentation",

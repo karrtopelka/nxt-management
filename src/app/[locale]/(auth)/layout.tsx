@@ -1,6 +1,7 @@
 import { enUS, ukUA } from '@clerk/localizations';
 import { ClerkProvider } from '@clerk/nextjs';
 
+import { BaseTemplate } from '@/templates/BaseTemplate';
 import { AppConfig } from '@/utils/AppConfig';
 
 export default function AuthLayout(props: {
@@ -30,7 +31,9 @@ export default function AuthLayout(props: {
       signInFallbackRedirectUrl={dashboardUrl}
       signUpFallbackRedirectUrl={dashboardUrl}
     >
-      {props.children}
+      <BaseTemplate>
+        {props.children}
+      </BaseTemplate>
     </ClerkProvider>
   );
 }
