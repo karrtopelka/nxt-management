@@ -5,7 +5,7 @@ const localePrefix: LocalePrefix = 'as-needed';
 // FIXME: Update this configuration file based on your project information
 export const AppConfig = {
   name: 'NXT Management',
-  locales: ['en', 'fr'],
-  defaultLocale: 'en',
+  locales: ['uk', 'en'],
+  defaultLocale: 'uk',
   localePrefix,
 };
